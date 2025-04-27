@@ -3,7 +3,7 @@
 /.idea/workspace.xml
 
 .idea
-.iml
+configyml.iml
 .xml
 
 # Environment-dependent path to Maven home directory
