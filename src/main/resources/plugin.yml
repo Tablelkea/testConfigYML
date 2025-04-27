@@ -1,0 +1,4 @@
+name: configYML
+version: '1.0-SNAPSHOT'
+main: org.TableIkea.configYML.Main
+api-version: '1.21'
